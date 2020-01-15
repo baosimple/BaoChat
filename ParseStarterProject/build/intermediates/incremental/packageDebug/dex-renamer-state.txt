@@ -1,0 +1,7 @@
+#Wed Jan 15 04:10:56 CST 2020
+base.0=/Users/baosimple/Downloads/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_da1b269dd92fee4a3b5d5d0f1cdb124621d94471
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/baosimple/Downloads/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ce2a01a780b49c5f583b49fb3e238e5b6b12d98/classes.dex
+base.1=/Users/baosimple/Downloads/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ce2a01a780b49c5f583b49fb3e238e5b6b12d98
+file.0=/Users/baosimple/Downloads/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_da1b269dd92fee4a3b5d5d0f1cdb124621d94471/classes.dex
